@@ -10,9 +10,8 @@ Sistema completo de agendamento para petshops desenvolvido como projeto acadêmi
 - ⚙️ Edição e exclusão de agendamentos
 - 📱 Design responsivo para todos os dispositivos
 
-## 🚀 Como Executar
+##  📂 Estrutura de Arquivos
 
-petshop-agendamento/
 ├── index.html          # Página de login
 
 ├── cadastro.html       # Página de cadastro
