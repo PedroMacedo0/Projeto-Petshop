@@ -17,21 +17,16 @@
 
 ---
 
-## 📂 Estrutura de Arquivos
-├── index.html # Página de login
+## 📁 Projeto-PetShop
 
-├── cadastro.html # Página de cadastro
-
-├── agendamento.html # Página para criar/editar agendamentos
-
-├── meus-agendamentos.html # Página principal com lista de agendamentos
-
-├── script.js # Lógica principal do sistema
-
-├── styles.css # Estilos globais
-
-└── meus-agendamentos.css # Estilos específicos da página de agendamentos
-
+├── 📄 index.html              → Página de login  
+├── 📄 cadastro.html           → Página de cadastro de usuários  
+├── 📄 agendamento.html        → Página para criar e editar agendamentos  
+├── 📄 meus-agendamentos.html → Página com a lista de agendamentos realizados  
+├── 📄 script.js               → Arquivo com a lógica principal do sistema  
+├── 🎨 styles.css              → Estilos globais da aplicação  
+├── 🎨 meus-agendamentos.css   → Estilos específicos para a página de agendamentos  
+├── 🖼️ pets.png                → Imagem de fundo utilizada nas páginas
 
 ---
 
