@@ -19,12 +19,19 @@
 
 ## 📂 Estrutura de Arquivos
 ├── index.html # Página de login
+
 ├── cadastro.html # Página de cadastro
+
 ├── agendamento.html # Página para criar/editar agendamentos
+
 ├── meus-agendamentos.html # Página principal com lista de agendamentos
+
 ├── script.js # Lógica principal do sistema
+
 ├── styles.css # Estilos globais
+
 └── meus-agendamentos.css # Estilos específicos da página de agendamentos
+
 
 ---
 
