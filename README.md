@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./8b0cb398-f549-4451-8c67-55a93af624b2.png" alt="Login PetShop" width="600"/>
+  <img src="./tela-login.png" alt="Tela de Login - PetShop" width="700"/>
 
   # 🐾 PetShop Agendamento - Sistema de Gerenciamento
   Sistema completo de agendamento para petshops desenvolvido como projeto acadêmico.
