@@ -29,6 +29,9 @@ Sistema completo de agendamento para petshops desenvolvido como projeto acadêmi
 ## 👨‍💻 Desenvolvedor
 
 Pedro Augusto da Silva Macedo
+
 RA: 21010681
-Disciplina: [Nome da Disciplina]
-Instituição: [Nome da Faculdade]
+
+Disciplina: Desenvolvimento Web Full Stack
+
+Instituição: Fundação Escola de Comércio Álvares Penteado
