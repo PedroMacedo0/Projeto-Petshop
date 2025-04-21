@@ -2,7 +2,6 @@
   # 🐾 PetShop Agendamento - Sistema de Gerenciamento
   Sistema completo de agendamento para petshops desenvolvido como projeto acadêmico.
 </div>
-<div align="center">
   <img src="./tela-login.png" alt="Tela de Login - PetShop" width="700"/>
 
 ---
