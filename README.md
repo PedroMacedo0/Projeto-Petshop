@@ -26,7 +26,8 @@ Sistema completo de agendamento para petshops desenvolvido como projeto acadêmi
 
 └── meus-agendamentos.css # Estilos específicos da página de agendamentos
 
-##👨‍💻 Desenvolvedor
+## 👨‍💻 Desenvolvedor
+
 Pedro Augusto da Silva Macedo
 RA: 21010681
 Disciplina: [Nome da Disciplina]
