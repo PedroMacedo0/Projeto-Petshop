@@ -29,6 +29,53 @@
 
 ---
 
+## 🖥️ Como Usar (Versão LocalStorage)
+1. Páginas Disponíveis
+index.html: Tela de login
+
+cadastro.html: Cadastro de novos usuários
+
+agendamentos.html: Formulário para novo agendamento
+
+meus-agendamentos.html: Lista de agendamentos do usuário
+
+2. Fluxo Básico
+Cadastre-se:
+
+Acesse cadastro.html
+
+Preencha todos os campos obrigatórios
+
+Clique em "Cadastrar"
+
+Faça Login:
+
+Acesse index.html
+
+Insira email e senha cadastrados
+
+Clique em "Login"
+
+Crie Agendamentos:
+
+Acesse agendamentos.html
+
+Preencha os dados do pet e do serviço
+
+Adicione uma foto (opcional)
+
+Clique em "Agendar"
+
+Gerencie Agendamentos:
+
+Acesse meus-agendamentos.html
+
+Visualize, edite ou exclua agendamentos
+
+Filtre por data usando o campo no topo
+
+---
+
 ## 👨‍💻 Desenvolvedor
 
 **Pedro Augusto da Silva Macedo**  
